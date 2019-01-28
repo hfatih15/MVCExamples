@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Layout", "01-Layout\01-Layout.csproj", "{D70722BE-2E8E-47C8-902B-B15E2F83DE8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-WebSiteProject", "02-WebSiteProject\02-WebSiteProject.csproj", "{ADA3B827-030C-43E3-9D95-6A197E9D3046}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D70722BE-2E8E-47C8-902B-B15E2F83DE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D70722BE-2E8E-47C8-902B-B15E2F83DE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D70722BE-2E8E-47C8-902B-B15E2F83DE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA3B827-030C-43E3-9D95-6A197E9D3046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA3B827-030C-43E3-9D95-6A197E9D3046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA3B827-030C-43E3-9D95-6A197E9D3046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA3B827-030C-43E3-9D95-6A197E9D3046}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
